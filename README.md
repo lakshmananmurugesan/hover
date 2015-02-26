@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -33,3 +34,6 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 # hover-effects
 Its a Hover Effect Chapter 1, Where i have shown 5 cool hover effect , which we can use in various places in out websites. 
 >>>>>>> cb0e70bd24891aca102daf95d96572351f917620
+=======
+# hover
+>>>>>>> e5c1d41ec949f585c021a8489d9e6eca97a77de5
